@@ -1,13 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFlNThlMTU5NGI3NDE4MDRkNzBkNjBmNjU3ODFmZmU4ODM2ZTQyZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="220"/>
-  <br/>
-  
-  <a href="https://t.me/blogronald">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=etherealHero&style=flat-square&color=blue" alt=""/>
-  
+<div align="center">
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -44,7 +35,20 @@ I am a junior JavaScript/React Developer <img src="https://media.giphy.com/media
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etherealHero&layout=compact&theme=transparent&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img src="https://komarev.com/ghpvc/?username=etherealHero&style=flat-square&color=blue" alt=""/>
 
+---
+### :mailbox: Contacts :
+  
+  <a href="https://t.me/blogronald">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  
+  <a href="mailto:gutcan4312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 <!--
 **etherealHero/etherealHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
