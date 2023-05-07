@@ -1,14 +1,5 @@
-<div align="center">
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-</div>
-
-
 ### :man_technologist: About Me :
-I am a junior JavaScript/React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a junior JavaScript/React Developer 	:computer::person_fencing:
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
