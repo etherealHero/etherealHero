@@ -1,5 +1,5 @@
 ### :man_technologist: About Me :
-I am a junior JavaScript/React Developer 	:computer::person_fencing:
+I am a junior JavaScript Developer 	:computer::person_fencing:
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
